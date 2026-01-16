@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nikhileshm43096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nikhileshm43096" height="30" width="40" /></a>
+<a href="https://twitter.com/@nikhileshm43096" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="@nikhileshm43096" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhilesh-mishra-689309234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilesh-mishra-689309234" height="30" width="40" /></a>
 <a href="https://dribbble.com/nikhilesh981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nikhilesh981" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/magician78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="magician78" height="30" width="40" /></a>
